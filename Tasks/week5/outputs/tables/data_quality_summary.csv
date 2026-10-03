@@ -1,0 +1,5 @@
+Dataset,Rows,Columns,Missing_Cells,Duplicate_Rows
+Customers,10000,5,299,0
+Orders,50120,8,788,120
+Payments,50000,4,35,0
+Products,20,4,0,0
